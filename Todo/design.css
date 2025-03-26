@@ -13,8 +13,8 @@
 :root {
     --black: rgb(28, 28, 28);
     --darkBlack: rgb(23, 22, 22);
-    --red: #BC312E;
-    --darkRed:rgb(191, 26, 23);
+    --red: #34af72;
+    --darkRed:rgb(59, 7, 6);
 }
 
 body {
